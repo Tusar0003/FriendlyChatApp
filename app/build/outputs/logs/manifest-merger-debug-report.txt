@@ -1,0 +1,442 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+MERGED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:2:1-19:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.3.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/45af48009ecee0b376c4fb53fd865dd4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d883c06fb4b02b04323dd8fd62df582d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/no0ne/.gradle/caches/transforms-2/files-2.1/4c3f54a34b35f21d1762066f963054f5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d8db8bd7696308c97e31d86fd5505c23/AndroidManifest.xml:16:1-21:12
+MERGED from [com.android.support:transition:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/1dc90de81f16b4c692aa5bbcfb4677b4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/744fc3d7dadea9128ea3298978cb341d/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5bff9be411d57a32b1b5fbd0c7f8fcad/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/2d02f380bd1369eb4c9ead94cf51f859/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/30f964f4dffd0722ccf9b1affcf9c3b3/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e21937c17afaa133f70a34549cf2e931/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c79aac35494591dd501c0a4a88f1002a/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e6aa9d49b63fa449fe8b9442588f4d20/AndroidManifest.xml:17:1-31:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/36ec14a54663060b30e385f2a453868a/AndroidManifest.xml:2:1-11:12
+MERGED from [id.zelory:compressor:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/eecad9978525d346ef512101fa76a7d1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/bd3999e01628fa2191102f6e47c245a4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/32befaa3297d7aab0a49506e6968f21d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/63d2337d7657ac53f12ef19c2913e20c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c37f2a0e83888d6d8dde9a5907310b37/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/479e6cb4c134c5372ad2114953ad98e4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a01785021d2cabd9b3ddab5c73e47212/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/b85b88fb5b12e3e26136662f5d40c135/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/20993c5547c82f7cc7205bbac8fbf3bb/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:9:5-65:19
+MERGED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d883c06fb4b02b04323dd8fd62df582d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d883c06fb4b02b04323dd8fd62df582d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/no0ne/.gradle/caches/transforms-2/files-2.1/4c3f54a34b35f21d1762066f963054f5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/no0ne/.gradle/caches/transforms-2/files-2.1/4c3f54a34b35f21d1762066f963054f5/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d8db8bd7696308c97e31d86fd5505c23/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d8db8bd7696308c97e31d86fd5505c23/AndroidManifest.xml:19:5-20:19
+MERGED from [com.android.support:transition:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/1dc90de81f16b4c692aa5bbcfb4677b4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/1dc90de81f16b4c692aa5bbcfb4677b4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/30f964f4dffd0722ccf9b1affcf9c3b3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/30f964f4dffd0722ccf9b1affcf9c3b3/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c79aac35494591dd501c0a4a88f1002a/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c79aac35494591dd501c0a4a88f1002a/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e6aa9d49b63fa449fe8b9442588f4d20/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e6aa9d49b63fa449fe8b9442588f4d20/AndroidManifest.xml:25:5-29:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/36ec14a54663060b30e385f2a453868a/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/36ec14a54663060b30e385f2a453868a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/bd3999e01628fa2191102f6e47c245a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/bd3999e01628fa2191102f6e47c245a4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/32befaa3297d7aab0a49506e6968f21d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/32befaa3297d7aab0a49506e6968f21d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/63d2337d7657ac53f12ef19c2913e20c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/63d2337d7657ac53f12ef19c2913e20c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c37f2a0e83888d6d8dde9a5907310b37/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c37f2a0e83888d6d8dde9a5907310b37/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/479e6cb4c134c5372ad2114953ad98e4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/479e6cb4c134c5372ad2114953ad98e4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a01785021d2cabd9b3ddab5c73e47212/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a01785021d2cabd9b3ddab5c73e47212/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/b85b88fb5b12e3e26136662f5d40c135/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/b85b88fb5b12e3e26136662f5d40c135/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/20993c5547c82f7cc7205bbac8fbf3bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/20993c5547c82f7cc7205bbac8fbf3bb/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:12:9-36
+	android:allowBackup
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:10:9-43
+service#com.example.no0ne.lapitchat.utils.FirebaseMessagingService
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:17:9-21:19
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:17:18-64
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:18:13-20:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:19:25-75
+activity#com.example.no0ne.lapitchat.activity.MainActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:24:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.no0ne.lapitchat.activity.StartActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:33:13-51
+activity#com.example.no0ne.lapitchat.activity.RegisterActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:38:13-49
+	android:parentActivityName
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:37:13-65
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:36:13-54
+activity#com.example.no0ne.lapitchat.activity.LoginActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:39:9-42:52
+	android:screenOrientation
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:42:13-49
+	android:parentActivityName
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:40:13-51
+activity#com.example.no0ne.lapitchat.activity.SettingsActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:43:9-45:52
+	android:screenOrientation
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:44:13-54
+activity#com.example.no0ne.lapitchat.activity.StatusActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:46:9-48:71
+	android:parentActivityName
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:48:13-68
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:47:13-52
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:49:9-51:59
+	android:theme
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:50:13-76
+activity#com.example.no0ne.lapitchat.activity.UsersActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:52:9-54:67
+	android:parentActivityName
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:54:13-64
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:53:13-51
+activity#com.example.no0ne.lapitchat.activity.ProfileActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:55:9-61:20
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:55:19-59
+intent-filter#action:name:com.example.no0ne.lapitchat_TARGET_NOTIFICATION+category:name:android.intent.category.DEFAULT
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:56:13-60:29
+action#com.example.no0ne.lapitchat_TARGET_NOTIFICATION
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:57:17-90
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:57:25-87
+category#android.intent.category.DEFAULT
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:59:27-73
+activity#com.example.no0ne.lapitchat.activity.ChatActivity
+ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:62:9-64:67
+	android:parentActivityName
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:64:13-64
+	android:name
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml:63:13-50
+uses-sdk
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.3.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/45af48009ecee0b376c4fb53fd865dd4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.3.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/45af48009ecee0b376c4fb53fd865dd4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d883c06fb4b02b04323dd8fd62df582d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d883c06fb4b02b04323dd8fd62df582d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/no0ne/.gradle/caches/transforms-2/files-2.1/4c3f54a34b35f21d1762066f963054f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/no0ne/.gradle/caches/transforms-2/files-2.1/4c3f54a34b35f21d1762066f963054f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d8db8bd7696308c97e31d86fd5505c23/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d8db8bd7696308c97e31d86fd5505c23/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:transition:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/1dc90de81f16b4c692aa5bbcfb4677b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/1dc90de81f16b4c692aa5bbcfb4677b4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/744fc3d7dadea9128ea3298978cb341d/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/744fc3d7dadea9128ea3298978cb341d/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5bff9be411d57a32b1b5fbd0c7f8fcad/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5bff9be411d57a32b1b5fbd0c7f8fcad/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/2d02f380bd1369eb4c9ead94cf51f859/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/2d02f380bd1369eb4c9ead94cf51f859/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/30f964f4dffd0722ccf9b1affcf9c3b3/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/30f964f4dffd0722ccf9b1affcf9c3b3/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e21937c17afaa133f70a34549cf2e931/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e21937c17afaa133f70a34549cf2e931/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c79aac35494591dd501c0a4a88f1002a/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c79aac35494591dd501c0a4a88f1002a/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e6aa9d49b63fa449fe8b9442588f4d20/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e6aa9d49b63fa449fe8b9442588f4d20/AndroidManifest.xml:21:5-23:54
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/36ec14a54663060b30e385f2a453868a/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/36ec14a54663060b30e385f2a453868a/AndroidManifest.xml:5:5-7:41
+MERGED from [id.zelory:compressor:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/eecad9978525d346ef512101fa76a7d1/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/eecad9978525d346ef512101fa76a7d1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/bd3999e01628fa2191102f6e47c245a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/bd3999e01628fa2191102f6e47c245a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/32befaa3297d7aab0a49506e6968f21d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/32befaa3297d7aab0a49506e6968f21d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/63d2337d7657ac53f12ef19c2913e20c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/63d2337d7657ac53f12ef19c2913e20c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c37f2a0e83888d6d8dde9a5907310b37/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c37f2a0e83888d6d8dde9a5907310b37/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/479e6cb4c134c5372ad2114953ad98e4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/479e6cb4c134c5372ad2114953ad98e4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a01785021d2cabd9b3ddab5c73e47212/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a01785021d2cabd9b3ddab5c73e47212/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/b85b88fb5b12e3e26136662f5d40c135/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/b85b88fb5b12e3e26136662f5d40c135/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/20993c5547c82f7cc7205bbac8fbf3bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/20993c5547c82f7cc7205bbac8fbf3bb/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+		ADDED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+		INJECTED from /home/no0ne/AndroidStudioProjects/FriendlyChat/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d883c06fb4b02b04323dd8fd62df582d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/d883c06fb4b02b04323dd8fd62df582d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/1dc90de81f16b4c692aa5bbcfb4677b4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/1dc90de81f16b4c692aa5bbcfb4677b4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e6aa9d49b63fa449fe8b9442588f4d20/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/e6aa9d49b63fa449fe8b9442588f4d20/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/bd3999e01628fa2191102f6e47c245a4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/bd3999e01628fa2191102f6e47c245a4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/32befaa3297d7aab0a49506e6968f21d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/32befaa3297d7aab0a49506e6968f21d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/63d2337d7657ac53f12ef19c2913e20c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/63d2337d7657ac53f12ef19c2913e20c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c37f2a0e83888d6d8dde9a5907310b37/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c37f2a0e83888d6d8dde9a5907310b37/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/479e6cb4c134c5372ad2114953ad98e4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/479e6cb4c134c5372ad2114953ad98e4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a01785021d2cabd9b3ddab5c73e47212/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a01785021d2cabd9b3ddab5c73e47212/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/b85b88fb5b12e3e26136662f5d40c135/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/b85b88fb5b12e3e26136662f5d40c135/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/20993c5547c82f7cc7205bbac8fbf3bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/20993c5547c82f7cc7205bbac8fbf3bb/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/f2bddeb97423670f9af65fbed5d424a0/AndroidManifest.xml:27:13-51
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c79aac35494591dd501c0a4a88f1002a/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/c79aac35494591dd501c0a4a88f1002a/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/9d34957ba37af1108b8849c15ebd7e59/AndroidManifest.xml:15:13-58
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/da7db8f7935a22fbc122c51572beefe2/AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/a7f6316aaf41cdfe31b56f187a4893e3/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:21:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:24:17-71
+permission#com.example.no0ne.lapitchat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:26:22-76
+uses-permission#com.example.no0ne.lapitchat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:31:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.example.no0ne.lapitchat
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:34:27-58
+category#com.example.no0ne.lapitchat
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:44:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/78206f3709ddd27693558e6fd7bdae25/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/no0ne/.gradle/caches/transforms-2/files-2.1/19893cfc84b0b6455e356f7f42f74ddd/AndroidManifest.xml:6:79-143
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/no0ne/.gradle/caches/transforms-2/files-2.1/5106cd7e423ea7c31be98db41ed11dd1/AndroidManifest.xml:26:13-58

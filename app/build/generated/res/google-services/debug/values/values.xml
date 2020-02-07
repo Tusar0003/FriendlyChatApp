@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">215125426522-2maqd3adtif116o59a2esmdspdk2tcq7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://lapitchat-c959a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">215125426522</string>
+    <string name="google_api_key" translatable="false">AIzaSyDR_1ZrMBS31a4y4Qrqyqw0p8H6m4OTvTM</string>
+    <string name="google_app_id" translatable="false">1:215125426522:android:e77084e031444379</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDR_1ZrMBS31a4y4Qrqyqw0p8H6m4OTvTM</string>
+    <string name="google_storage_bucket" translatable="false">lapitchat-c959a.appspot.com</string>
+    <string name="project_id" translatable="false">lapitchat-c959a</string>
+</resources>

@@ -1,0 +1,1 @@
+com.example.no0ne.lapitchat

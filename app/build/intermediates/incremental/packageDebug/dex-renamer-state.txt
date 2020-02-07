@@ -1,0 +1,7 @@
+#Fri Oct 13 11:58:13 BDT 2017
+base.0=/home/no0ne/AndroidStudioProjects/LapitChat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a90dc97c8cfbfbbb4fa2cc427e7b3c47b2305482
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/no0ne/AndroidStudioProjects/LapitChat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1f3e0ae0370f9a78f080976f2e1695849b25eb73/classes.dex
+base.1=/home/no0ne/AndroidStudioProjects/LapitChat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1f3e0ae0370f9a78f080976f2e1695849b25eb73
+file.0=/home/no0ne/AndroidStudioProjects/LapitChat/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a90dc97c8cfbfbbb4fa2cc427e7b3c47b2305482/classes.dex
